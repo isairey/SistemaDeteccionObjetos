@@ -209,7 +209,7 @@ runs/track/
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mikel-brostrom/Yolov5_StrongSORT_OSNet/master/strong_sort/results/output_04.gif" width="420"/>
+<img src="strong_sort/results/output_04.gif" width="400"/> <img src="strong_sort/results/output_th025.gif" width="400"/> 
 
 <br><br>
 
