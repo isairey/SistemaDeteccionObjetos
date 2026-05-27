@@ -1,10 +1,10 @@
-# README.md
+
 
 <div align="center">
 
 
 
-# 🎯 YOLOv5 + StrongSORT + OSNet
+# 🎯 SistemaDeteccionObjetos
 
 ### Sistema avanzado de detección y seguimiento de objetos en tiempo real 🚀
 
