@@ -77,7 +77,7 @@ El sistema es capaz de:
 # 📂 Estructura del Proyecto
 
 ```bash
-Yolov5_StrongSORT_OSNet/
+SistemaDeteccionObjetos/
 │
 ├── strong_sort/
 ├── yolov5/
@@ -94,7 +94,7 @@ Yolov5_StrongSORT_OSNet/
 ## 1️⃣ Clonar repositorio
 
 ```bash
-git clone --recurse-submodules https://github.com/mikel-brostrom/Yolov5_StrongSORT_OSNet.git
+git clone --recurse-submodules https://github.com/isairey/SistemaDeteccionObjetos.git
 ```
 
 ---
@@ -102,7 +102,7 @@ git clone --recurse-submodules https://github.com/mikel-brostrom/Yolov5_StrongSO
 ## 2️⃣ Entrar al proyecto
 
 ```bash
-cd Yolov5_StrongSORT_OSNet
+cd SistemaDeteccionObjetos
 ```
 
 ---
@@ -250,28 +250,15 @@ runs/track/
 
 ---
 
-# 👨‍💻 Autor
+# 👨‍💻 Desarrollador
 
-Proyecto original desarrollado por:
-
-### Mikel Broström
+### Isai Reyes - FullStack Developer
 
 🔗 GitHub:
-https://github.com/mikel-brostrom
+https://github.com/isairey
 
 ---
 
-# ⭐ Créditos
-
-Gracias a las comunidades open source de:
-
-- YOLOv5
-- StrongSORT
-- OSNet
-- PyTorch
-- OpenCV
-
----
 
 # 📜 Licencia
 
