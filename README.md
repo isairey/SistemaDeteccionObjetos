@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img width="220" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov5/v70/splash.png" />
+
 
 # 🎯 YOLOv5 + StrongSORT + OSNet
 
